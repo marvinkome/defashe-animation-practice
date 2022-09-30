@@ -12,6 +12,7 @@ body {
   margin: 0;
   font-size: 18px;
   scroll-snap-type: y mandatory;
+  scroll-behavior: smooth;
   background-color: var(--background-color);
   font-family: "Baloo 2", -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans,
     Droid Sans, Helvetica Neue, cursive, sans-serif;
